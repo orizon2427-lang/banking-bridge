@@ -41,7 +41,7 @@ const PaymentSelection = ({ onBack }: PaymentSelectionProps) => {
 
           <div className={`transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <a
-              href="https://buy.stripe.com/28E00d2eZdGNfw82gf53O01"
+              href="https://buy.stripe.com/dRmaER3j35ah6ZC2gf53O04"
               target="_blank"
               rel="noopener noreferrer"
               className="block group relative bg-black/20 ring-1 ring-white/15 backdrop-blur rounded-3xl p-10 hover:ring-brand-green/40 hover:scale-105 transition-all duration-300 hover:shadow-2xl"
